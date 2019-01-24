@@ -1,0 +1,4 @@
+{
+"meta":{"launch_mode":"Train","name":"experiment","iteration_count":3,"learn_metrics":[{"best_value":"Max","name":"MultiClass"}],"test_sets":[],"test_metrics":[],"learn_sets":["learn"]},
+"iterations":[
+]}
